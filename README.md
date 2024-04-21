@@ -5,8 +5,8 @@
 ## 如何玩
 操纵两个摇杆控制小鸟的运动。参考了无人机的操纵方式，左摇杆控制小鸟飞翔方向，右摇杆为飞行高度。当拨动摇杆时，小鸟会播放起飞动画然后播放飞行动画产生位移，停止运动时会播放降落动画。点击屏幕右上位置会在下方出现💩
 您可以操控它在别人身上或者周边环境中留下些爱🤎
-![示例 GIF](1.0.gif)
-![示例 GIF](2.0.gif)
+![示例 GIF](https://github.com/457231201/A-bird-that-can-poop/blob/main/vilog/1.0.gif?raw=true)
+![示例 GIF](https://github.com/457231201/A-bird-that-can-poop/blob/main/vilog/2.0.gif?raw=true)
 
 
 ## 功能
